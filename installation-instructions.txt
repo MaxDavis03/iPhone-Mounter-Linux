@@ -1,0 +1,11 @@
+Install the dependencies:
+1. ifuse: https://github.com/libimobiledevice/ifuse
+2. iMobileDevice: https://github.com/PJStation/iMobileDevice
+
+Connect the phone to the PC using a USB cable. Unlock the phone.
+
+Run the 'mount.bash' script.
+
+Copy any files to and from device.
+
+Run the 'unmount.bash' script.
